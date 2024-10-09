@@ -16,6 +16,7 @@ module.exports = [
   {
     files: ['**/*.ts'],
     rules: {
+      "@typescript-eslint/ban-ts-ignore": "off",
       "no-console": ["error"],
       '@angular-eslint/directive-selector': [
         'error',

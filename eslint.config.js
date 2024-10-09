@@ -16,6 +16,7 @@ module.exports = [
   {
     files: ['**/*.ts'],
     rules: {
+      "no-console": ["error"],
       '@angular-eslint/directive-selector': [
         'error',
         {

@@ -2,11 +2,11 @@
 
 ## Link no Github
 
-[https://github.com/caiowrocha/ecommerce-mentoria](https://github.com/caiowrocha/ecommerce-mentoria)
+[https://github.com/caiowrocha/ecommerce](https://github.com/caiowrocha/ecommerce)
 
 ```bash
-git clone <https://github.com/caiowrocha/ecommerce-mentoria>
-cd ecommerce-mentoria
+git clone <https://github.com/caiowrocha/ecommerce>
+cd ecommerce
 npm install
 ```
 
